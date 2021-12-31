@@ -21,6 +21,7 @@ header p{
 }
 
 #img-caption{
+  padding: 0;
   margin-bottom: 20px;
 }
 
